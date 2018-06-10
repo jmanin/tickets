@@ -1,0 +1,39 @@
+{
+
+  "name": "jmanin/tickets",
+
+  "description": "Package for ticket",
+
+  "keywords": ["ticket", "laravel"],
+
+  "license": "MIT",
+
+  "authors": [
+
+    {
+
+      "name": "Jimmy Manin",
+
+      "email": "jimmy.manin@digiframes.fr"
+
+    }
+
+  ],
+
+  "require": {
+
+    "php": ">=5.4.0"
+
+  },
+
+  "autoload": {
+
+    "psr-0": {
+
+      "Fk": "src/"
+
+    }
+
+  }
+
+}
